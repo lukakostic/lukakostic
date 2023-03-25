@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **lukakostic/lukakostic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <br>
+  
+  <img width="150" src="https://thedise.me/src/images/hi.webp">
+ 
+  <br>
+  <samp>
+    <i>Yo!</i> I'm <b>Dise</b>.
+    <br> 
+    I'm a developer from Ukraine.
+    <br>
+    <br>
+  </samp>
+  
+  <br>
+  <br>
+</p>
+

@@ -20,9 +20,9 @@ Here are some ideas to get you started:
  
   <br>
   <samp>
-    <i>Yo!</i> I'm <b>Dise</b>.
+    <i>Yo!</i> I'm <b>Luka</b>.
     <br> 
-    I'm a developer from Ukraine.
+    I'm a developer from Serbia.
     <br>
     <br>
   </samp>

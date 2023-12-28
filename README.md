@@ -1,9 +1,7 @@
 <p align="center">
-  <br>
   
   <img width="150" src="https://thedise.me/src/images/hi.webp">
  
-  <br>
   <samp>
     <i>Yo!</i> I'm <b>Luka</b>.
     <br> 
@@ -11,8 +9,5 @@
     <br>
     <br>
   </samp>
-  
-  <br>
-  <br>
 </p>
 

@@ -5,7 +5,7 @@
   <samp>
     <i>Yo!</i> I'm <b>Luka</b>.
     <br> 
-    I'm a developer from Serbia.
+    I'm a game/web/embedded/graphics developer from Serbia.
   </samp>
 </p>
 
